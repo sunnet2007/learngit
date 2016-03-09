@@ -1,0 +1,21 @@
+{
+  "list":  [
+        {
+	     "bracher":"上海",
+	     "version":"v1.0"
+	},
+	{
+	     "bracher":"合肥",
+	     "version":"v1.0"
+	},
+	{
+	     "bracher":"南京",
+	     "version":"v1.0"
+	}
+	,
+	{
+	     "bracher":"xx",
+	     "version":"v1.0"
+	}
+    ]
+}
